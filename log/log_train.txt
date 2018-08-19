@@ -1,0 +1,793 @@
+------------start eval----------
+eval mean loss: 2.30266423060868
+eval accuracy: 0.10616987179487179
+------------start train 0/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 2.302561322392531
+train accuracy: 0.1521875
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 2.2941003309702097
+train accuracy: 0.169375
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 2.2082550701738346
+train accuracy: 0.19114583333333332
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 2.025650296020797
+train accuracy: 0.264453125
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 1.8403683437111957
+train accuracy: 0.341625
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 1.7819009005654045
+train accuracy: 0.37114583333333334
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 1.8034149036851552
+train accuracy: 0.3649107142857143
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 1.6961439003979384
+train accuracy: 0.408671875
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 1.5829906921834416
+train accuracy: 0.4525
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 1.4806126315239694
+train accuracy: 0.4913125
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 1.3886072117210366
+train accuracy: 0.5248579545454546
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 1.30935379426495
+train accuracy: 0.5539322916666667
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 1.241054815578075
+train accuracy: 0.5786057692307692
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 1.1766879492615594
+train accuracy: 0.6013839285714285
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 1.121677855643221
+train accuracy: 0.6210416666666667
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 1.0732179412440765
+train accuracy: 0.63869140625
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 1.0286676207874506
+train accuracy: 0.6545955882352941
+------------start eval----------
+eval mean loss: 0.2898142933569493
+eval accuracy: 0.9238782051282052
+------------start train 1/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 0.30574509147426016
+train accuracy: 0.9203125
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 0.2972893333080441
+train accuracy: 0.91828125
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 0.31621579712357123
+train accuracy: 0.914375
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 0.306994779036631
+train accuracy: 0.91671875
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 0.3028157766119517
+train accuracy: 0.9183125
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 0.2941202292935328
+train accuracy: 0.9211458333333333
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 0.28058259450540973
+train accuracy: 0.9249553571428571
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 0.27211206814383926
+train accuracy: 0.9270703125
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 0.2763932783252924
+train accuracy: 0.9260763888888889
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 0.28030966836020044
+train accuracy: 0.92515625
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 0.27456301051589
+train accuracy: 0.9263352272727273
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 0.2715747706619383
+train accuracy: 0.927265625
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 0.27056898713557315
+train accuracy: 0.9275240384615384
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 0.26566364051477087
+train accuracy: 0.9284821428571428
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 0.26212033844360694
+train accuracy: 0.9294583333333334
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 0.2582308843604485
+train accuracy: 0.930625
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 0.2575182356021088
+train accuracy: 0.9308088235294117
+------------start eval----------
+eval mean loss: 0.31933464472796586
+eval accuracy: 0.9238782051282052
+------------start train 2/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 0.20292864998998295
+train accuracy: 0.951875
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 0.17646651142028932
+train accuracy: 0.95546875
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 0.1850918864210308
+train accuracy: 0.9533333333333334
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 0.18521238428594028
+train accuracy: 0.95328125
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 0.1814346149940033
+train accuracy: 0.954375
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 0.17625447532244348
+train accuracy: 0.9547395833333333
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 0.1733260285729751
+train accuracy: 0.9554464285714286
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 0.172154044168944
+train accuracy: 0.955703125
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 0.17098970261957835
+train accuracy: 0.9563541666666666
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 0.17226730049758357
+train accuracy: 0.95584375
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 0.17056369659714796
+train accuracy: 0.9560795454545454
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 0.16787829514412164
+train accuracy: 0.9570052083333334
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 0.16719721181202066
+train accuracy: 0.9571875
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 0.16568409539296966
+train accuracy: 0.9576116071428571
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 0.16799599933787432
+train accuracy: 0.9566458333333333
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 0.17018106913569653
+train accuracy: 0.95625
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 0.17093762826984774
+train accuracy: 0.9560661764705882
+------------start eval----------
+eval mean loss: 0.11527997048083687
+eval accuracy: 0.9719551282051282
+------------start train 3/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 0.14102852759858694
+train accuracy: 0.9653125
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 0.128832838900852
+train accuracy: 0.9659375
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 0.14190307800827665
+train accuracy: 0.9625
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 0.14211199014948026
+train accuracy: 0.96234375
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 0.142956826930751
+train accuracy: 0.9625625
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 0.13906830942706597
+train accuracy: 0.9638541666666667
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 0.138729995892042
+train accuracy: 0.9641517857142857
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 0.13609601384663553
+train accuracy: 0.9648828125
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 0.14141253868682663
+train accuracy: 0.9634375
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 0.14496674008517013
+train accuracy: 0.962625
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 0.14362455299450683
+train accuracy: 0.9629261363636363
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 0.14618328477145248
+train accuracy: 0.9624739583333334
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 0.1499844317886385
+train accuracy: 0.9614182692307692
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 0.1480086646777883
+train accuracy: 0.9620982142857143
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 0.1473027699669725
+train accuracy: 0.9619375
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 0.14760774494781687
+train accuracy: 0.96189453125
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 0.14658926667819933
+train accuracy: 0.9616727941176471
+------------start eval----------
+eval mean loss: 0.21140677340570704
+eval accuracy: 0.9393028846153846
+------------start train 4/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 0.13241969180337754
+train accuracy: 0.9690625
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 0.12533082509079063
+train accuracy: 0.96765625
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 0.12908574671507878
+train accuracy: 0.9655208333333334
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 0.1335052755211024
+train accuracy: 0.964296875
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 0.13647447244464794
+train accuracy: 0.96425
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 0.13198497273231363
+train accuracy: 0.96515625
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 0.133964253599821
+train accuracy: 0.965
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 0.13081833903744455
+train accuracy: 0.965546875
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 0.13276740519706362
+train accuracy: 0.9653125
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 0.13232469572207312
+train accuracy: 0.96484375
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 0.1308925915812569
+train accuracy: 0.9649431818181818
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 0.1313416233729736
+train accuracy: 0.964609375
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 0.1313534524016759
+train accuracy: 0.9646634615384615
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 0.12979186219131553
+train accuracy: 0.9652008928571428
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 0.13136703137983666
+train accuracy: 0.9647291666666666
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 0.1349545684604738
+train accuracy: 0.9635546875
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 0.135198264893032
+train accuracy: 0.9634742647058824
+------------start eval----------
+eval mean loss: 0.15029016067437428
+eval accuracy: 0.9609375
+------------start train 5/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 0.1530895698290826
+train accuracy: 0.95875
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 0.13572848515916072
+train accuracy: 0.9634375
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 0.1477366722569979
+train accuracy: 0.960625
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 0.15207986197961543
+train accuracy: 0.959921875
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 0.1512881137106295
+train accuracy: 0.96
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 0.144643391241614
+train accuracy: 0.9616145833333334
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 0.14293988737952895
+train accuracy: 0.9617410714285715
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 0.14306776030313556
+train accuracy: 0.9612890625
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 0.14371001813632883
+train accuracy: 0.9614583333333333
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 0.14266576306132242
+train accuracy: 0.96178125
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 0.13920409217734536
+train accuracy: 0.9629829545454546
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 0.1381950302973771
+train accuracy: 0.963515625
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 0.13639066273274106
+train accuracy: 0.9640625
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 0.1346925288654867
+train accuracy: 0.9644419642857143
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 0.13442533769348095
+train accuracy: 0.9644375
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 0.13580441662832243
+train accuracy: 0.96396484375
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 0.1344964274797233
+train accuracy: 0.9642279411764706
+------------start eval----------
+eval mean loss: 0.07083133205747406
+eval accuracy: 0.9819711538461539
+------------start train 6/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 0.07868235062501867
+train accuracy: 0.9796875
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 0.06970034563855379
+train accuracy: 0.9809375
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 0.06983875511459793
+train accuracy: 0.9803125
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 0.06767844174199583
+train accuracy: 0.981015625
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 0.06611898366163332
+train accuracy: 0.981625
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 0.06498776114959054
+train accuracy: 0.98171875
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 0.06381733905082061
+train accuracy: 0.9821428571428571
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 0.06264148370330147
+train accuracy: 0.982421875
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 0.06405838104406408
+train accuracy: 0.9819097222222222
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 0.06306314874864244
+train accuracy: 0.98246875
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 0.06269818383747175
+train accuracy: 0.9825852272727272
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 0.06266839244287717
+train accuracy: 0.982734375
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 0.06258156915210412
+train accuracy: 0.9826442307692308
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 0.06259125309525373
+train accuracy: 0.9825892857142857
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 0.06341125988020144
+train accuracy: 0.98225
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 0.06332270974747631
+train accuracy: 0.98236328125
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 0.06360446058069306
+train accuracy: 0.9823161764705882
+------------start eval----------
+eval mean loss: 0.07012743832558331
+eval accuracy: 0.9801682692307693
+------------start train 7/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 0.06798639967926162
+train accuracy: 0.9821875
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 0.06632971727346687
+train accuracy: 0.98171875
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 0.07212115519186688
+train accuracy: 0.9792708333333333
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 0.0702989770440205
+train accuracy: 0.979609375
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 0.07130201250636123
+train accuracy: 0.979125
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 0.07077210008739042
+train accuracy: 0.9794791666666667
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 0.07091891375913413
+train accuracy: 0.9798214285714286
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 0.07086701251247927
+train accuracy: 0.980078125
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 0.07259067105259658
+train accuracy: 0.9793402777777778
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 0.0731641508057942
+train accuracy: 0.9793125
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 0.07344292365792711
+train accuracy: 0.9790909090909091
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 0.07363399160794126
+train accuracy: 0.9790885416666667
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 0.07489222647873922
+train accuracy: 0.978701923076923
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 0.07530384906243452
+train accuracy: 0.9787723214285714
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 0.07715065669650263
+train accuracy: 0.9780416666666667
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 0.0776502046727443
+train accuracy: 0.97783203125
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 0.07812329153144067
+train accuracy: 0.9777205882352941
+------------start eval----------
+eval mean loss: 0.07992252867091165
+eval accuracy: 0.9759615384615384
+------------start train 8/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 0.089997114072282
+train accuracy: 0.974375
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 0.08346362852506127
+train accuracy: 0.97703125
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 0.0889941049385663
+train accuracy: 0.9735416666666666
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 0.08864839611672
+train accuracy: 0.97375
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 0.08845140343961305
+train accuracy: 0.9740625
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 0.08695683624751768
+train accuracy: 0.9746875
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 0.08700221009529906
+train accuracy: 0.9748214285714286
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 0.08616745401819007
+train accuracy: 0.975078125
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 0.08739115462531036
+train accuracy: 0.9745486111111111
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 0.08756255105406703
+train accuracy: 0.9745625
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 0.0870933297185597
+train accuracy: 0.9746875
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 0.0867176164218637
+train accuracy: 0.9747395833333333
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 0.08775828526115756
+train accuracy: 0.9744711538461538
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 0.08783620517267314
+train accuracy: 0.9745535714285715
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 0.08948412303201722
+train accuracy: 0.9740208333333333
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 0.08972479896750722
+train accuracy: 0.973828125
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 0.09000048025381681
+train accuracy: 0.9737683823529412
+------------start eval----------
+eval mean loss: 0.08680271277491196
+eval accuracy: 0.9745592948717948
+------------start train 9/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 0.09441526574674108
+train accuracy: 0.9734375
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 0.08787917679275603
+train accuracy: 0.9759375
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 0.0929543324755165
+train accuracy: 0.9730208333333333
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 0.09209867977856714
+train accuracy: 0.97296875
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 0.09197451627075183
+train accuracy: 0.973625
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 0.0907320697813277
+train accuracy: 0.9738020833333333
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 0.09077576966791248
+train accuracy: 0.9736607142857143
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 0.08984773944954993
+train accuracy: 0.9736328125
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 0.09117527665340619
+train accuracy: 0.9732291666666667
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 0.09142706839440372
+train accuracy: 0.97334375
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 0.09070987187707961
+train accuracy: 0.9736079545454546
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 0.09035616377679478
+train accuracy: 0.973515625
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 0.09121863344121606
+train accuracy: 0.9731971153846154
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 0.09119844720430727
+train accuracy: 0.97328125
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 0.09281223992379335
+train accuracy: 0.9728333333333333
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 0.09315229514906796
+train accuracy: 0.9725
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 0.09344799893059048
+train accuracy: 0.9724632352941176
+------------start eval----------
+eval mean loss: 0.09100417321724757
+eval accuracy: 0.9723557692307693
+------------start train 10/20----------
+-----------train loss & acc-----------
+100/1718 (batchs) completed!
+train mean loss: 0.09530530276643237
+train accuracy: 0.973125
+-----------train loss & acc-----------
+200/1718 (batchs) completed!
+train mean loss: 0.08959870596417606
+train accuracy: 0.974375
+-----------train loss & acc-----------
+300/1718 (batchs) completed!
+train mean loss: 0.09480985506607455
+train accuracy: 0.9720833333333333
+-----------train loss & acc-----------
+400/1718 (batchs) completed!
+train mean loss: 0.09259268757850679
+train accuracy: 0.9725
+-----------train loss & acc-----------
+500/1718 (batchs) completed!
+train mean loss: 0.09287992349247161
+train accuracy: 0.9730625
+-----------train loss & acc-----------
+600/1718 (batchs) completed!
+train mean loss: 0.09184378898102162
+train accuracy: 0.9733854166666667
+-----------train loss & acc-----------
+700/1718 (batchs) completed!
+train mean loss: 0.09151408046784441
+train accuracy: 0.9733928571428572
+-----------train loss & acc-----------
+800/1718 (batchs) completed!
+train mean loss: 0.09078584154782682
+train accuracy: 0.9734375
+-----------train loss & acc-----------
+900/1718 (batchs) completed!
+train mean loss: 0.09216259931125582
+train accuracy: 0.9731597222222222
+-----------train loss & acc-----------
+1000/1718 (batchs) completed!
+train mean loss: 0.09252520406249547
+train accuracy: 0.9730625
+-----------train loss & acc-----------
+1100/1718 (batchs) completed!
+train mean loss: 0.09174340365868416
+train accuracy: 0.9733522727272728
+-----------train loss & acc-----------
+1200/1718 (batchs) completed!
+train mean loss: 0.09150829816959871
+train accuracy: 0.973203125
+-----------train loss & acc-----------
+1300/1718 (batchs) completed!
+train mean loss: 0.09233768039100176
+train accuracy: 0.9729567307692307
+-----------train loss & acc-----------
+1400/1718 (batchs) completed!
+train mean loss: 0.09228585723690962
+train accuracy: 0.9730580357142857
+-----------train loss & acc-----------
+1500/1718 (batchs) completed!
+train mean loss: 0.09379975388904863
+train accuracy: 0.9726458333333333
+-----------train loss & acc-----------
+1600/1718 (batchs) completed!
+train mean loss: 0.09418046996754988
+train accuracy: 0.9721875
+-----------train loss & acc-----------
+1700/1718 (batchs) completed!
+train mean loss: 0.09453880273496025
+train accuracy: 0.9720220588235294
+------------start eval----------
